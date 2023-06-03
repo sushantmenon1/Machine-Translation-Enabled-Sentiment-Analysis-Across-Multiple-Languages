@@ -2,7 +2,7 @@
 
 ## Data Collection
 
-![Example Image 1](https://github.com/sushantmenon1/Machine-Translation-Enabled-Sentiment-Analysis-Across-Multiple-Languages/assets/74258021/7eb76474-78b8-409b-8613-eaff8a861165) -> ![Example Image 2](https://github.com/sushantmenon1/Machine-Translation-Enabled-Sentiment-Analysis-Across-Multiple-Languages/assets/74258021/9d043c16-06e7-4854-853a-1845ddfd93cf)
+![Example Image 1](https://github.com/sushantmenon1/Machine-Translation-Enabled-Sentiment-Analysis-Across-Multiple-Languages/assets/74258021/7eb76474-78b8-409b-8613-eaff8a861165) &rarr; ![Example Image 2](https://github.com/sushantmenon1/Machine-Translation-Enabled-Sentiment-Analysis-Across-Multiple-Languages/assets/74258021/9d043c16-06e7-4854-853a-1845ddfd93cf)
 
 
 The data for the project was sourced from Kaggle, a platform for data scientists and machine learning engineers to share and discover datasets. Specifically, the dataset used was the Amazon Alexa Reviews dataset, which consists of customer reviews of the Amazon Alexa device. The dataset was collected through web scraping, which involves using software to automatically extract data from websites. The code used to scrape the data is not provided, but the dataset is publicly available on Kaggle and can be accessed and verified by anyone. It is possible to re-collect the data, but it would require replicating the web scraping process used to obtain it. It is worth noting that the data is proprietary, as it belongs to Amazon, but it has been made publicly available for research purposes.
