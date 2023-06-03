@@ -1,0 +1,2 @@
+# Machine-Translation-Enabled-Sentiment-Analysis-Across-Multiple-Languages
+Machine Translation-Enabled Sentiment Analysis Across Multiple Languages is a project that leverages data collection, language translation, and sentiment analysis techniques to analyze and classify sentiments in customer reviews across various languages, providing valuable insights into the opinions and feelings expressed by users.
