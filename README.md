@@ -32,3 +32,8 @@ We have designed a cleaning function in which we have used some components of th
 Pytesseract is a Python library that provides an interface for interacting with Tesseract OCR (Optical Character Recognition) engine. It allows developers to extract text from images or scanned documents by utilizing Tesseract's powerful text recognition capabilities. With Pytesseract, you can easily incorporate OCR functionality into your Python projects, enabling tasks such as automated data extraction, text recognition, and image-to-text conversion. It supports a wide range of image formats and provides flexibility in configuring OCR parameters for better accuracy. Pytesseract simplifies the integration of OCR technology into Python applications, making it a valuable tool for various applications like document processing, image analysis, and automated data extraction from images.
 
 pytesseract 0.3.10 :- `pip install pytesseract`
+
+## Vader
+VADER (Valence Aware Dictionary and sEntiment Reasoner) is a pre-trained sentiment analysis tool specifically designed for analyzing sentiments expressed in social media texts. It is based on a combination of lexicon-based and grammatical rule-based approaches. VADER uses a pre-constructed sentiment lexicon that assigns sentiment scores to words based on their semantic orientation (positive or negative) and intensity. By considering the overall sentiment scores of individual words, as well as the context and grammatical rules, VADER can accurately classify text into positive, negative, or neutral sentiment categories. It is widely used for sentiment analysis tasks in social media monitoring, customer feedback analysis, and opinion mining.
+
+vaderSentiment 3.3.2 :- `pip install vaderSentiment`
