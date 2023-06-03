@@ -27,3 +27,8 @@ We have designed a cleaning function in which we have used some components of th
 3. **Sentiment Analysis**: In the third step, we train and test our model or use a pre-trained sentiment classifier like Vader. The goal of this step is to analyze the sentiment of the text. Sentiment analysis involves classifying the text into positive, negative, or neutral categories. By analyzing the sentiment of the text, we can gain insights into the feelings and opinions of the text's author.
 
 4. **Predicting Sentiment for Streaming Data**: Once we have our model or sentiment classifier, we can move on to the fourth step, which involves predicting sentiment for streaming data. Streaming data refers to data that is generated in real-time, such as social media posts or news articles. By predicting sentiment for streaming data, we can keep track of the changing opinions and feelings of the public on different topics.
+
+## Pytesseract
+Pytesseract is a Python library that provides an interface for interacting with Tesseract OCR (Optical Character Recognition) engine. It allows developers to extract text from images or scanned documents by utilizing Tesseract's powerful text recognition capabilities. With Pytesseract, you can easily incorporate OCR functionality into your Python projects, enabling tasks such as automated data extraction, text recognition, and image-to-text conversion. It supports a wide range of image formats and provides flexibility in configuring OCR parameters for better accuracy. Pytesseract simplifies the integration of OCR technology into Python applications, making it a valuable tool for various applications like document processing, image analysis, and automated data extraction from images.
+
+pytesseract 0.3.10 :- `pip install pytesseract`
